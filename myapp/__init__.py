@@ -1,0 +1,1 @@
+# default_app_config = 'Users.mromrell.PycharmProjects.webdev.stockpicker.myapp.apps.MyappConfig'
